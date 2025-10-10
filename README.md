@@ -1,4 +1,4 @@
-## A Faster Algorithm for Vertex Cover: A Randomized Automated Approach
+## A Faster Randomized Algorithm for Vertex Cover: An Automated Approach
 
 ### Environment
 
